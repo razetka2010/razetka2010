@@ -12,6 +12,8 @@
 
 Я Яниверсальный IT-специалист, который берёт на себя одновременно фронтенд и бэкенд -разработку у которого четрыре года стажем. Я ценю в себе умение находить нестандартные решения и доводить дело до конца, какой бы сложной ни была задача.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,git,github,java)](https://skillicons.dev)
+
 ## Контакты
 - Email: raz_etka_2010@mail.ru
 - Telegram: @dapogkakto
