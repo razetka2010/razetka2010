@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=180&section=header&text=Artem|Razetka%20&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
+---
+
 <h3>
 ⚡ Fullstack Developer  ⚡
 </h3>
