@@ -5,6 +5,6 @@
 Я фронтенд и бэкенд разработчик у которого четрыре года стажем. Я ценю в себе умение находить нестандартные решения и доводить дело до конца, какой бы сложной ни была задача.
 
 Контакты
-- Email: rustam@example.com
+- Email: raz_etka_2010@mail.ru
 - LinkedIn: linkedin.com/in/rustam_example
 - Telegram: @rustam_dev_example
