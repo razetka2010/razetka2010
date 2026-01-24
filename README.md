@@ -11,3 +11,9 @@
 ## Контакты
 - Email: raz_etka_2010@mail.ru
 - Telegram: @dapogkakto
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,100:ff0080&height=120&section=footer" />
+
+</div>
