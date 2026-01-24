@@ -18,7 +18,7 @@
 
 ---
 
-![My Skills](https://skillicons.dev/icons?i=androidstudio,discord,pycharm,visualstudio,vscode,webstorm,phpstorm)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,pycharm,visualstudio,vscode,webstorm,phpstorm)
 
 </div>
 
