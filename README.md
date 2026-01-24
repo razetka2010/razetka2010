@@ -22,7 +22,7 @@
 
 </div>
 
-## Контакты
+## Связь с разработчиком
 - Email: raz_etka_2010@mail.ru
 - Telegram: @dapogkakto
 
