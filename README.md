@@ -31,7 +31,7 @@
   
 [![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:raz_etka_2010@mail.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/znaniesevera)
-<-- [![🌐 Website](https://img.shields.io/badge/🌐_Website-1a1a1a?style=for-the-badge&logo=globe&logoColor=white)](https://razetka2010.github.io/Business-card-website/) -->
+//[![🌐 Website](https://img.shields.io/badge/🌐_Website-1a1a1a?style=for-the-badge&logo=globe&logoColor=white)](https://razetka2010.github.io/Business-card-website/)
 
 </div>
 
