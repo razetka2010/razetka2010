@@ -9,7 +9,7 @@
 </div>
 
 ## Немного о себе
-Я Яниверсальный IT-специалист, который берёт на себя одновременно фронтенд и бэкенд - разработку у которого четрыре года стажа. Я ценю в себе умение находить нестандартные решения и доводить дело до конца, какой бы сложной ни была задача.
+I am a versatile IT specialist who takes on both frontend and backend development, with four years of experience. I value my ability to find innovative solutions and complete tasks, no matter how complex they may be.
 
 ## Стек Технологий
 <div align="center">
