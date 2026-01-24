@@ -6,5 +6,4 @@
 
 Контакты
 - Email: raz_etka_2010@mail.ru
-- LinkedIn: linkedin.com/in/rustam_example
-- Telegram: @rustam_dev_example
+- Telegram: @dapogkakto
